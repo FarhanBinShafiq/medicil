@@ -1,0 +1,32 @@
+.card{
+    background-color: rgb(250, 243, 243);
+}
+.card:hover{
+    box-shadow: 5px 10px 20px 1px rgba(0,0,0,0.253) !important;
+}
+
+.card-body{padding: 3rem 0 ! important;}
+.card-text{
+    font-size: 0.9rem;
+    padding: 0.4rem 1.9rem;
+}
+
+.img-top{
+    transform: scale(1);
+}
+
+.img-top:hover{
+    transform: scale(1.2);
+}
+
+.btn{
+    background-color: #41B3A3;
+    text-align: center;
+    border-radius: 25px;
+    width: 150px;
+    height: 40px;
+    color: rgb(65, 7, 7);
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}

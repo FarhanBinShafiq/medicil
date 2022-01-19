@@ -1,0 +1,22 @@
+[
+  {
+    "id":1 ,
+    "title":"Pedlatric",
+    "desc":"Fusce eget condimentum lectus, sed commodo dui. Suspendisse non vehicula ant aecenas placerat finibus metus, at finibus neque.",
+    "img":"https://i.ibb.co/LzxtL1R/2.png"
+  },
+  {
+    "id": 2,
+    "title":"Dental",
+    "desc":"Fusce eget condimentum lectus, sed commodo dui. Suspendisse non vehicula ant aecenas placerat finibus metus, at finibus neque.",
+    "img":"https://i.ibb.co/rQfsh4t/3.png"
+  },
+  {
+    "id": 3,
+    "title":"Physicians",
+    "desc":"Fusce eget condimentum lectus, sed commodo dui. Suspendisse non vehicula ant aecenas placerat finibus metus, at finibus neque.",
+    "img":"https://i.ibb.co/MRrjxn7/4.png"
+  }
+ 
+
+]
